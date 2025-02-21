@@ -1,0 +1,11 @@
+py-cpuinfo==9.0.0
+matplotlib==3.8.2
+scipy==1.11.4
+numba==0.58.1
+langchain-community==0.3.18
+ipykernel==6.29.5
+requests==2.32.3
+numpy
+pymupdf
+pytorch
+sentence-transformers
