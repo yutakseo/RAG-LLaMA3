@@ -1,1 +1,2 @@
-vectorstore/*
+/vectorstore/
+.DS_Store
