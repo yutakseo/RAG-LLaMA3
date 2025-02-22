@@ -9,3 +9,6 @@ numpy
 pymupdf
 sentence-transformers
 chromadb
+curl
+pciutils
+ollama
